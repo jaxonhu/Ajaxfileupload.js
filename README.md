@@ -1,5 +1,5 @@
 # Ajaxfileupload.js
-jquery ajax 文件上传的插件，验证可用。
+jquery ajax 文件上传的插件
 
 > 前端用例
 
